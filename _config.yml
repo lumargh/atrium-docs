@@ -1,0 +1,8 @@
+title: Atrium
+description: A homepage workspace built around your daily note.
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+plugins:
+  - jekyll-remote-theme
+color_scheme: light
+search_enabled: true
+footer_content: "Contact: <a href=\"mailto:sebshq@gmail.com\">sebshq@gmail.com</a>"

@@ -1,0 +1,21 @@
+---
+title: Web page
+parent: Modules
+nav_order: 5
+---
+
+# Web page
+
+The Web page module is for quick browsing without leaving Atrium, on desktop only. Type in its bar to search, with the web viewer's search engine, or to go to an address; links open in the card instead of a new tab; Cmd/Ctrl-click or middle-click one, or right-click it and choose **Open link in stack**, to open it in a new card stacked with this one. A card narrower than 600 pixels asks sites for their mobile version, and switches back when widened or expanded. The **Search the web** command opens Atrium ready to type, or searches for the text selected in a note. The card starts on the web viewer's home page, or on its own set in the card's settings, and shares the web viewer's browsing session, so sites you're signed in to there stay signed in.
+
+Pasting with the card picked out goes to the address pasted, or searches for the text.
+
+Turn off **Address bar** in a card's settings to keep a web app, such as mail or chat, open as a card of its own: the bar goes, the card is titled with the site's name and icon, and an unread count in the page's title, such as "(3)", shows as a badge after its name, and on its tab in a stack. **Separate web sign-ins**, on the workspace's right-click menu or as a command, gives the open workspace's web pages their own sign-ins, apart from Obsidian's and other workspaces', so work and personal accounts don't mix; **Share web sign-ins** goes back.
+
+A page and your notes can follow each other:
+- **Add to daily note** adds the text selected on the page to today's daily note, with a link back, or else a link to the page.
+- **Note for this page** opens the page's note beside it: one whose `source` or `url` property is the page's address, made if there isn't one. **Save page as note** saves the page's article as a new note with its `source`, beside it.
+- A note with a web address as its `source` or `url` property gets **Open its page**, which opens the page beside it.
+- **Copy page link as Markdown** copies the page as a Markdown link; **Copy link as Markdown**, on a link's right-click menu, copies that link.
+
+Each is a button behind the card's ⋯ (Save page and Copy page link only on its right-click menu, which the page's own right-click shows, with Copy for the text selected), a right-click item and a command.

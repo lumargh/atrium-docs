@@ -1,0 +1,14 @@
+---
+title: Home
+nav_order: 1
+---
+
+# Atrium
+
+A homepage and primary workspace for Obsidian, built around your daily note.
+
+- The day's daily note, editable in place, with previous/next/today navigation.
+- Cards that follow the daily note's day, such as the agenda and the month's note, show a small link by their name, as the daily note does while any follow it; clicking a card's link keeps it on the day it shows, and **Follow the daily note** on its right-click menu links it again.
+- Modules below it, added from "Add module": the month's note, any note, or Tasks: open tasks due by the visible day, with complete and defer buttons and a new-task input. Tasks can be inline (`- [ ]` lines with dates in Tasks emoji, Dataview, Kanban or Reminder format; new dates use your chosen format) or task notes (notes tagged `task` with `status`, `due`, `scheduled`, `start` and `created` properties).
+
+Choose where note locations and templates come from in settings: Daily notes (default when enabled), Periodic notes, or custom.
