@@ -21,6 +21,7 @@ Atrium's right-click menus show each action's key at its right, in grey, so you 
 | Shift+X | With two cards picked out, swap them |
 | : | Stack the cards picked out behind the first, their tabs after its own |
 | } and { | Show the next or previous card in the stack; its tabs keep their order, the one showing in its own place |
+| Option+} and Option+{ | Move the card showing later or earlier in its stack's tab order (also **Move later in stack** and **Move earlier in stack** on its right-click menu) |
 | Option+; (…) | Take the card out of its stack, beside it |
 | Shift+B | In tiles, give the cards in the card's row or stack equal sizes; **Equal sizes for all cards**, on the page's right-click menu, does the whole page |
 | Tab | Go back to the card picked out before, and Tab again to return |
