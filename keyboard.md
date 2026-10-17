@@ -31,7 +31,7 @@ Atrium's right-click menus show each action's key at its right, in grey, so you 
 | Shift+M | Fold or unfold the card |
 | f | Filter the card |
 | , | Open the card's settings: up and down arrows move between settings, Tab goes into one and on to the next, Space flips a toggle, Esc comes back out (or, on a setting, cancels) and Enter saves |
-| +, then arrows | Resize mode, until +, Esc or Enter: a dashed frame marks the card, solid along the edges that can move, with its size. An arrow pushes the edge on that side out, Shift + arrow pulls it in: in tiles, the tiles beyond it give or take the room; in columns, → and ← widen and narrow its column, and ↓ and ↑ grow and shrink its height; expanded, its width and height. = and - grow or shrink the card on every side at once. **Resize step** in Atrium's settings sets how much each press changes |
+| +, then arrows | Resize mode, until +, Esc or Enter: a dashed frame marks the card, solid along the edges that can move, with its size. An arrow pushes the edge on that side out, Shift + arrow pulls the opposite edge in, so the card goes the arrow's way: in tiles, the tiles beyond it give or take the room; in columns, → and ← widen and narrow its column, and ↓ and ↑ grow and shrink its height; expanded, its width and height. = and - grow or shrink the card on every side at once. **Resize step** in Atrium's settings sets how much each press changes |
 | Delete or Backspace | Remove the card (its note stays) and pick out the nearest one |
 | Cmd/Ctrl+W (Obsidian's close tab hotkey) | Remove the card, also while typing in it or in its page, rather than close Atrium |
 | Esc | Put an expanded card back, or let the card go |
