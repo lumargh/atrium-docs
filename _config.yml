@@ -5,4 +5,4 @@ plugins:
   - jekyll-remote-theme
 color_scheme: light
 search_enabled: true
-footer_content: "Contact: <a href=\"mailto:sebshq@gmail.com\">sebshq@gmail.com</a>"
+footer_content: "Contact: <a href=\"mailto:support@atrium-md.com\">support@atrium-md.com</a>"
