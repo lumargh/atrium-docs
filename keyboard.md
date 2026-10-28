@@ -17,7 +17,7 @@ Atrium's right-click menus show each action's key at its right, in grey, so you 
 | Shift+A, then : | Add a module to the card's stack, at the end of its tabs and in front; a card on its own becomes a stack. Also **Add to stack** in the card's right-click menu, and the **Add module to card's stack** command |
 | Shift+S, then an arrow or h j k l | Split the card that way, its copy going on that side |
 | Shift+R | Replace the card with a module chosen from Add module, in the same place |
-| Shift+P | In tiles, flip the card's row or stack: side by side becomes stacked, and stacked becomes side by side. With more cards picked out (Cmd/Ctrl- or Shift-click their frames), turns just those the other way |
+| Shift+P | In tiles, flip the card's row or stack: side by side becomes stacked, and stacked becomes side by side. With more cards picked out (Cmd/Ctrl- or Shift-click their frames), turns just those the other way (**Swap orientation**) |
 | Shift+X | With two cards picked out, swap them |
 | : | Stack the cards picked out behind the first, their tabs after its own |
 | } and { | Show the next or previous card in the stack; its tabs keep their order, the one showing in its own place |
